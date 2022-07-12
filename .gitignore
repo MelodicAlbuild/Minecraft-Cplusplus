@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/.vs/Minecraft-C++
+/Minecraft-C++/x64/Debug
+/x64/Debug
